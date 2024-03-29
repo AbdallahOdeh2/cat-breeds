@@ -16,3 +16,6 @@ To use the pretrained model for cat breeds classification:
 1. **Extract the images from cat_images.rar.**
 2. **Load the pretrained model using your preferred deep learning framework (e.g., TensorFlow, Keras or Pytorch).**
 3. **Use the model to classify images of cat breeds.**
+
+# Evaluation
+On the `Test data` the mdoel was able to get accuracy **85%**
